@@ -1,0 +1,62 @@
+.dXVIxG_formConatiner {
+  border: 2px solid #e37a10;
+  border-radius: 20px;
+  max-width: 350px;
+  padding: 10px;
+  box-shadow: 20px 20px 50px gray;
+}
+
+.dXVIxG_inputBlock {
+  flex-direction: column;
+  margin: 0 0 12px;
+  display: flex;
+}
+
+.dXVIxG_formLabel {
+  color: #fff;
+  margin: 0 9px 0 0;
+  font-size: 15px;
+}
+
+.dXVIxG_formInput {
+  color: #1e1616;
+  border: 1px solid gray;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.dXVIxG_inputError {
+  color: red;
+  margin: 4px 0 0;
+  font-size: 12px;
+}
+
+.dXVIxG_loginBtn {
+  cursor: pointer;
+  color: #fff;
+  background-color: #75ab0f;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  width: 98%;
+  margin: 10px 0 0;
+  padding: 12px 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.dXVIxG_formBottom {
+  text-align: right;
+  color: #fff;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.dXVIxG_formBottom a {
+  color: #5959e5;
+  cursor: pointer;
+  text-decoration: none;
+}
+/*# sourceMappingURL=index.2212206d.css.map */
